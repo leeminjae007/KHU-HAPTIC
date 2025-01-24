@@ -96,3 +96,6 @@ for idx, path in enumerate(filtered_file_paths, start=1):  # 순서 추가
     plt.savefig(segment_output_path)
     print(f"Segment signal plot saved to {segment_output_path}")
     plt.close(fig)
+
+
+    # DDD
